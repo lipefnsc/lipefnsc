@@ -1,6 +1,6 @@
 ## Prazer, sou o Felipe! 👋
 
-👨‍💻 Atualmente estou cursando o 2° semestre do curso de Engenharia de Software <br/>
+👨‍💻 Atualmente estou cursando o 4° semestre do curso de Engenharia de Software <br/>
 💭 Por fora, estou focado em desenvolvimento de sistemas com Java (Back-end) <br/>
 
 ## Tecnologias que utilizo
