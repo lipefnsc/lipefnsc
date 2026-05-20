@@ -4,4 +4,4 @@
 
 📭 Contact felipefon.dev@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgresql,aws,ts,nodejs,html,css,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgresql,aws,ts,nodejs,html,css,docker)](https://skillicons.dev)
